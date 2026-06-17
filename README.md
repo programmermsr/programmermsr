@@ -20,12 +20,8 @@
 
 ### 📂 نمونه کارهای من
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
- <span style = "padding-bottom: 10px;">پروژه فرانت فقط با HTML، CSS و JavaScript</span>
-  <a href="https://github.com/programmermsr/laptop-store">
-    <img src="https://img.shields.io/badge/فروشگاه_لپ‌تاپ-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
- 
+<div align="center">
+  <a href="https://github.com/programmermsr/laptop-store">پروژه فرانت فقط با HTML، CSS و JavaScript</a>
 </div>
 
 ---
