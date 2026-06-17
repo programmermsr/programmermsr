@@ -1,7 +1,7 @@
-<h1 align="center"> محمدصادق رضائی </h1>
+<h1 align="center"> Mohammad Sadegh Rezaei <br> محمدصادق رضائی </h1>
 
 
-### 🛠️ مهارت‌های من
+### 🛠️ My Skills (مهارت‌های من)
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -18,19 +18,16 @@
 
 ---
 
-### 📂 نمونه کارهای من
+### 📂 My Projects (نمونه کارهای من)
 
 <div align="center">
-  <a href="https://github.com/programmermsr/laptop-store">پروژه فرانت فقط با HTML CSS JavaScript</a>
+  <a href="https://github.com/programmermsr/laptop-store">Front-end Project with HTML, CSS, JavaScript</a>
 </div>
 
 ---
 
-
-### 🌐 مشاهده سایت من
+### 🌐 My Website (مشاهده سایت من)
 
 <div align="center">
-  <span><a href="https://www.programmer-msr.ir">www.programmer-msr.ir</a></span>
+  <a href="https://www.programmer-msr.ir">www.programmer-msr.ir</a>
 </div>
-
-
