@@ -1,5 +1,6 @@
-<h1 align="center"> Mohammad Sadegh Rezaei <br> محمدصادق رضائی </h1>
+<h1 align="center" style="text-decoration: none; border-bottom: none;"> Mohammad Sadegh Rezaee <br> محمدصادق رضائی </h1>
 
+---
 
 ### 🛠️ My Skills (مهارت‌های من)
 
