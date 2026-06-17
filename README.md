@@ -30,7 +30,7 @@
 ### 📂 My Portfolio (نمونه کارهای من)
 
 <div align="center">
-  <a href="https://github.com/programmermsr/laptop-store">Front-end Project with HTML, CSS, JavaScript</a>
+  <a href="https://github.com/programmermsr/laptop-store">Front-end Project with HTML CSS JavaScript</a>
 </div>
 
 ---
