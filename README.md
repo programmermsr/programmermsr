@@ -21,7 +21,7 @@
 ### 📂 نمونه کارهای من
 
 <div align="center">
-  <a href="https://github.com/programmermsr/laptop-store">پروژه فرانت فقط با HTML، CSS و JavaScript</a>
+  <a href="https://github.com/programmermsr/laptop-store">پروژه فرانت فقط با HTML CSS JavaScript</a>
 </div>
 
 ---
