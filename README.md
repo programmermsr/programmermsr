@@ -1,5 +1,6 @@
-<h1 align="center" style="text-decoration: none; border-bottom: none;"> Mohammad Sadegh Rezaee</h1>
-<h1 align="center" style="text-decoration: none; border-bottom: none;">محمد صادق رضائی </h1>
+<h3 align="center"><strong>Mohammad Sadegh Rezaee</strong></h3>
+<h3 align="center"><strong>محمد صادق رضائی</strong></h3>
+
 
 ---
 
