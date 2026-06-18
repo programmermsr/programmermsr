@@ -36,9 +36,9 @@
 </div>
 
 ---
-
-### 🌐 My Website (مشاهده سایت من)
+<br>
 
 <div align="center">
-  <a href="https://www.programmer-msr.ir">www.programmer-msr.ir</a>
+  <a href="https://www.programmer-msr.ir" target="_blank"><img src="https://img.shields.io/badge/Website-programmer--msr.ir-blue?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/programmermsr" target="_blank"><img src="https://img.shields.io/badge/Instagram-programmermsr-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
